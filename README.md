@@ -11,10 +11,6 @@
   Fady Tadrous | 2 | 13 | fadytadrous.ft@gmail.com
   Mohamed Almotasem | 2 | 18  |   mohammed.almotasem55@googlemail.com
 
-### *Repository Link:*
-```
-https://github.com/sbme-tutorials/sbe309-2020-final-assignment-27_sbe309_20_final
-```
 <!-- MarkdownTOC -->
 
 - [*Project1*](#Project1)
@@ -35,10 +31,6 @@ https://github.com/sbme-tutorials/sbe309-2020-final-assignment-27_sbe309_20_fina
   - [*Files written*](#files-written-3)
   - [*Results*](#results-3)
 - [*Project5*](#Project5)
-  - [Shazam](#shazam)
-  - [Files written:](#files-written)
-  - [Results:](#results)
-- [*Project6*](#Project6)
   - [Shazam](#shazam)
   - [Files written:](#files-written)
   - [Results:](#results)
